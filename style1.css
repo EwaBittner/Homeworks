@@ -1,0 +1,29 @@
+.row {
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding: 16px;
+    font-size: 14px;
+    height: 50px;
+}
+
+nav {
+    display: inline-block;
+}
+
+.footer {
+    height: 70px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body {
+    margin: 30px;
+}
